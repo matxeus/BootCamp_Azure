@@ -8,3 +8,10 @@ para criar o modelo, foi necessário abrir uma conta na azure e criar um recurso
 Projeto 2: Analisando imagens com IA
 
 Utilizei o serviço Vision Studio da Azure e usei 3 modelos: Detect faces in an image, extract text from imagens e Add caption to image. Esses serviços servem para extrairmos informações de imagens: O primeiro detecta rostos, o segundo detecta texto e o terceiro faz uma descrição da imagem.
+
+
+Projeto 3: Analisando sentimento de texto
+Utilizei o serviço Language Studio da Azure e analisei o sentimento de 2 textos: 
+"O atendimento ao cliente foi rápido e eficiente, o que me deixou muito satisfeito. No entanto, o produto que recebi estava danificado, e a substituição levou mais tempo do que o esperado. Apesar disso, o suporte foi educado e tentou resolver o problema da melhor forma possível." 
+"Estou extremamente insatisfeito com o serviço. A entrega atrasou vários dias, e o suporte ao cliente foi completamente inútil, sem oferecer nenhuma solução. Além disso, o produto veio com defeitos e não funcionou como esperado. Foi uma experiência frustrante e decepcionante."
+O modelo funcionou muito bem apontando, com precisão, os pontos negativos e positivos.
